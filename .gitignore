@@ -1,0 +1,10 @@
+*
+!*.*
+!*/
+build/
+
+# ignore everything
+# don't ignore files with extentions
+# don't ignore directories
+# ignore build directories
+# proud of this XD
